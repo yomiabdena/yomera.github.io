@@ -41,9 +41,6 @@ header nav{
 
 
 }
-header p{
-    display: inline;
-}
 header nav ul{
     list-style:none;
 }
